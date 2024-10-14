@@ -11,7 +11,7 @@ namespace Tyuiu.BilousEYu.Sprint2.Task0.V26
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
 
-            Console.Title = "Спринт #1 | Выполнила: Билоус Е.Ю. | ИСТНб - 24-1";
+            Console.Title = "Спринт #2 | Выполнила: Билоус Е.Ю. | ИСТНб - 24-1";
             Console.WriteLine("*********************************************************************************");
             Console.WriteLine("* Спринт #2                                                                     *");
             Console.WriteLine("* Тема: Операции сравнения                                                      *");
