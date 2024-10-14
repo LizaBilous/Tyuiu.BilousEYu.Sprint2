@@ -10,7 +10,7 @@ namespace Tyuiu.BilousEYu.Sprint2.Task4.V20
             Console.Title = "Спринт #2 | Выполнила: Билоус Е.Ю. | ИСТНб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
+            Console.WriteLine("* Тема: Тернарный оператор                                                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнила: Билоус Елизавета Юрьевна | ИСТНб-24-1                        *");
