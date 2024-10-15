@@ -373,6 +373,7 @@ namespace Tyuiu.BilousEYu.Sprint2.Task6.V15.Lib
                 case 364: return "воскресенье";
                 case 365: return "понедельник";
 
+
                 default: throw new ArgumentException($"День должен быть от 1 до 365. {k}");
             }
         }
