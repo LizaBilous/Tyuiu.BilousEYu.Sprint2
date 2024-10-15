@@ -40,7 +40,7 @@ namespace Tyuiu.BilousEYu.Sprint2.Task6.V15.Lib
                 case 31: return "среда";
                 case 32: return "четверг";
                 case 33: return "пятница";
-                case 34: return "суббота";
+                case 34: return "Cуббота";
                 case 35: return "воскресенье";
                 case 36: return "понедельник";
                 case 37: return "вторник";
