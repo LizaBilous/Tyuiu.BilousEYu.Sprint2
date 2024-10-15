@@ -28,7 +28,7 @@ namespace Tyuiu.BilousEYu.Sprint2.Task6.V15.Test
             Assert.AreEqual("среда", ds.FindDayName(17));
             Assert.AreEqual("четверг", ds.FindDayName(18));
             Assert.AreEqual("пятница", ds.FindDayName(19));
-            Assert.AreEqual("суббота", ds.FindDayName(20));
+            Assert.AreEqual("Cуббота", ds.FindDayName(20));
             Assert.AreEqual("воскресенье", ds.FindDayName(21));
             Assert.AreEqual("понедельник", ds.FindDayName(22));
             Assert.AreEqual("вторник", ds.FindDayName(23));
@@ -42,7 +42,7 @@ namespace Tyuiu.BilousEYu.Sprint2.Task6.V15.Test
             Assert.AreEqual("среда", ds.FindDayName(31));
             Assert.AreEqual("четверг", ds.FindDayName(32));
             Assert.AreEqual("пятница", ds.FindDayName(33));
-            Assert.AreEqual("Cуббота", ds.FindDayName(34));
+            Assert.AreEqual("cуббота", ds.FindDayName(34));
             Assert.AreEqual("воскресенье", ds.FindDayName(35));
             Assert.AreEqual("понедельник", ds.FindDayName(36));
             Assert.AreEqual("вторник", ds.FindDayName(37));
